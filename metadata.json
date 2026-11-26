@@ -1,0 +1,8 @@
+{
+  "name": "FISIKA EXPLORER – Petualangan Getaran dan Gelombang",
+  "description": "Aplikasi bimbingan belajar digital IPA-Fisika kelas VIII SMP untuk materi Getaran dan Gelombang dengan narator bahasa Indonesia, laboratorium virtual interaktif, mini-game, dan latihan soal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
